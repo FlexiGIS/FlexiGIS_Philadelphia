@@ -1,2 +1,2 @@
-# FlexiGIS
-GIS-based plattform for the optimisation of flexibilisation technologies in urban energy systems
+# FlexiGIS_remix
+open source GIS-based plattform for the configurations of renewable power generation in cities: Philadelphia as a case study
